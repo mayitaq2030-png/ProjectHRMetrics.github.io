@@ -14,8 +14,8 @@
 
 ### Business Problem:
 
-<p align="justify"> Human Resources leadership requires a clear understanding of workforce capacity, demographic composition, and hiring–termination trends to plan staffing effectively. According to the dashboard, total headcount is 20,319, retention decreased by 0.5% YoY, and turnover while low at 0.8% still impacts critical roles in Engineering, Sales, Training, and Support.
-
+<p align="justify"> Human Resources leadership requires a clear understanding of workforce capacity, demographic composition, and hiring–termination trends to plan staffing effectively. According to the dashboard, total headcount is 20,319, retention decreased by 0.5% YoY, and turnover while low at 0.8% still impacts critical roles in Engineering, Sales, Training, and Support. </p>
+<p align="justify">
 Additionally, 1012 hires and 163 terminations represent a hiring slowdown (-6.6%) and a reduction in departures (-6.3%), revealing mismatches between staffing needs and talent acquisition velocity. Departmental distribution shows heavy concentration in Human Resources (6110), Training (3048), and Engineering (1681), while Support and R&D remain comparatively understaffed. Demographic patterns such as age distribution, race, and gender—require continuous monitoring to ensure diversity, equity, and inclusion (DEI) objectives. </p>
 
 HR leaders need a unified analytics model to support workforce planning, reduce workforce risk exposure, and improve hiring decisions. 
